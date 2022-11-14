@@ -1,0 +1,1 @@
+Some basic openSUSE tumbleweed scripts to install necessary packages post OS installation as well as perform unattended OS updates.
